@@ -1,5 +1,5 @@
 # Exquisite Corpse in Silico
-## 🔻 The Same But Different 🔻
+## 🔻 _Day-scape_ 🔻
 
 This README file contains:
 - Briefs for each stage of the assignment
