@@ -33,7 +33,7 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 - Github account: https://github.com/emmazig
 - Published webpage for stage 1:   https://emmazig.github.io/exquisite-corpse/      - (takes a while to load)
 
-I’ve taken a photo of the same place every two hours over the course of a day and I've combined them in this sketch to represent the passing of time. I took the seven photos and cut them each into seven pieces (representing the 14 hours of a day –1 photo every two hours for 14 hrs = 7 photos). I then uploaded them to my sketch and made them shuffle using the ‘random’ function. I positioned all the sections together to create a single picture that switches up constantly.
+I’ve taken a photo of the same place every two hours over the course of a day and I've combined them in this sketch to represent the passing of time. I took the seven photos and cut them each into seven pieces (representing the 14 daylight hours of a day –1 photo every two hours for 14 hrs = 7 photos). I then uploaded them to my sketch and made them shuffle using the ‘random’ function. I positioned all the sections together to create a single picture that switches up constantly.
 We measure time by change, change in weather, change in how things look, how things feel. So I wanted to get this across with this sketch, I wanted to highlight the different shadows that were made throughout the day, the changing sky - how some things changed while other things stayed the same. 
 
 ### 🟨 Stage 2
